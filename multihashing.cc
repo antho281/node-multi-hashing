@@ -22,6 +22,7 @@ extern "C" {
     #include "nist5.h"
     #include "sha1.h",
     #include "x15.h"
+    #include "lbry.h",
 	#include "fresh.h"
 }
 
