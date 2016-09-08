@@ -26,6 +26,7 @@
                 "fresh.c",
 		"lbry.c",
 		"sha3/sph_sha2.c",
+		"sha3/sph_sha2big.c",
 		"sha3/sph_ripemd.c",
                 "sha3/sph_hefty1.c",
                 "sha3/sph_fugue.c",
